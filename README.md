@@ -1,4 +1,4 @@
-#My First Shallow Neural Network with GPU Support (NumPy + CuPy)
+# My First Shallow Neural Network with GPU Support (NumPy + CuPy)
 
 This implementation represents a two-layer neural network (one hidden layer and one output layer) built for **binary classification** tasks. The main feature is the ability to perform the calculations on both the **CPU** (using NumPy) and **GPU** (using CuPy, part of the RAPIDS ecosystem), selectable through a parameter at startup.
 
