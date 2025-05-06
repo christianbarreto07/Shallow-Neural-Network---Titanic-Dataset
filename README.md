@@ -25,7 +25,7 @@ The `model_2NN` model is capable of:
 2. Performing **probabilistic predictions** (returning the probability of an instance belonging to class 1).
 3. Performing **class predictions** (returning the predicted label 0 or 1 based on a threshold).
 
-##Algorithm Structure
+## Algorithm Structure
 
 The model learning process follows the fundamental steps of a neural network:
 
